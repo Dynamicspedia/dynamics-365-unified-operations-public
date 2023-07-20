@@ -34,7 +34,7 @@ To see what's new or changed in each release of Dynamics 365 Finance, see the fo
 
 | Version | Build number | Auto-update availability | Learn more |
 |---------|--------------|---------------|-------------|
-| 10.0.35 |  10.0.1627   | July 2023     | [[What's new and changed in Dynamics 365 Finance version 10.0.34](whats-new-changed-10-0-35.md) |
+| 10.0.35 |  10.0.1627   | July 2023     | [[What's new and changed in Dynamics 365 Finance version 10.0.35](whats-new-changed-10-0-35.md) |
 | 10.0.34 |  10.0.1591   | June 2023     | [[What's new and changed in Dynamics 365 Finance version 10.0.34](whats-new-changed-10-0-34.md) |
 | 10.0.33 |  10.0.1549   | April 2023    | [What's new and changed in Dynamics 365 Finance version 10.0.33](whats-new-changed-changed-10-0-33.md) |
 | 10.0.32 |  10.0.1515   | March 2023    | [What's new and changed in Dynamics 365 Finance version 10.0.32](whats-new-changed-10-0-32.md) |
